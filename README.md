@@ -21,18 +21,23 @@ An Outlier is an observation in a given dataset that lies far from the rest of t
 # ALGORITHM
 
 STEP 1
+
 Read the given Data.
 
 STEP 2
+
 Get the information about the data.
 
 STEP 3
+
 Detect the Outliers using IQR method and Z score.
 
 STEP 4
+
 Remove the outliers.
 
 STEP 5
+
 Plot the datas using Box Plot.
 
 # PROGRAM

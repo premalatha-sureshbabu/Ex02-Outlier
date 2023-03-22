@@ -36,8 +36,11 @@ STEP 5
 Plot the datas using Box Plot.
 
 # PROGRAM
+
 Developed by : S.Prema Latha
 Registration Number : 212222230112
+
+```
 
 import pandas as ps
 import numpy as np
@@ -103,6 +106,7 @@ df4
 df4.shape
 
 sns.boxplot(x='height',data=df4)
+```
 
 # OUTPUT
 
